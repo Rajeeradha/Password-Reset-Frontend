@@ -1,5 +1,5 @@
 import React from 'react';
-import { Routes, Route, Navigate } from 'react-router-dom';
+import { Routes, Route} from 'react-router-dom';
 import Register from './Components/Register';
 import Signin from './Components/Signin';
 import Home from './Components/Home';
